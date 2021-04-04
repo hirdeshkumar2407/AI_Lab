@@ -1,0 +1,51 @@
+Notes for CLass 5 
+
+Supervised learning
+real world problems 
+two types like classification and regression
+
+classification asigns category
+
+regression to find out relationship btw variable
+
+unsupervised
+has unlabel data to find patterm
+
+naive bayes
+is classification approch
+presence of feature no effect on other features
+
+types of navive bayes
+
+
+
+decison treee
+superviseed learning and classificartion
+
+
+we start at root node till the leaf node 
+
+sklearn works on data training on model
+
+pandas and numpay on data operation
+
+
+Gaussian, Multinominal
+
+
+K Means Clustering
+There is a technique used to partition data into group(varuius clusters)
+k = nimber of cluster. (centorid )Common point will be selected that is equisdistant to 
+each point
+
+The two qualities of data 
+Meaningfulness Cluster
+USefulness
+
+Meaningfulness Cluster 
+like medical researcher, a group finds a gene expression, different
+from other group in reaction to a medicine.
+
+Usefulnss it serves interdmediate step 
+like people having butter with breaad
+identify commonly associcate objects
